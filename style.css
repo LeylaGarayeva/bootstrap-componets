@@ -1,0 +1,65 @@
+body{
+	width: 100%;
+}
+header{
+	margin-top: 15px;
+}
+.menu li{
+	margin-left: 2%;
+	padding: 5px;
+	display: inline;
+}
+.logo{
+	font-weight: bold;
+	padding: 5px;
+	font-size: 18px;
+}
+.menu li:hover{
+	border-bottom: 2px solid silver;
+}
+.active{
+	border-bottom: 2px solid silver;
+}
+.blocks a{
+	text-decoration: none;
+}
+.blocks{
+	margin-left: 10%;
+	margin-right: 10%;
+	margin-top: 20px;
+	padding: 10px;
+}
+.blocks p{
+	padding-top: 10px;
+}
+footer{
+	background-color: #292b2a;
+	color: white;
+	width: 100%;
+}
+.blok1{
+	background-color: #7ed090;
+		height: 200px;
+}
+.block2{
+	background-color: #b4e5e9;
+	height: 200px;
+}
+.block3{
+	background-color: #f36a46;
+	height: 200px;
+}
+.umumi{
+	margin-right: 10%;
+	margin-left: 10%;
+}
+.input1{
+	border: 1px solid silver;
+	padding: 8px;
+}
+.input span{
+	padding: 8px;
+}
+.text{
+	margin-left: 10px;
+}
